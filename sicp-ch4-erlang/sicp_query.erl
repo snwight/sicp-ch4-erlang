@@ -1,3 +1,9 @@
+%%
+%% WIP - this is a combination of the cutting room floor and the remaining high level logic;
+%%       most of this file has been duplicated (and is replaced by) sicp_query_db_server.erl
+%%
+%% ...snwight jan 6 2014
+%%
 -module('sicp_query').
 
 -export([query_driver_loop/0]).
