@@ -1,10 +1,10 @@
 %%%-------------------------------------------------------------------
-%%% @author Steve Wight <snwight@snwight.ubuntu.12.04>
-%%% @copyright (C) 2014, Steve Wight
+%%% @author Steve Wight <northwight@gmail.com>
+%%% 
 %%% @doc
 %%%
 %%% @end
-%%% Created :  1 Jan 2014 by Steve Wight <snwight@snwight.ubuntu.12.04>
+%%% Created :  1 Jan 2014 by Steve Wight <northwight@gmail.com>
 %%%-------------------------------------------------------------------
 -module(sicp_query_db_server).
 
