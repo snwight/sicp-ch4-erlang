@@ -1,6 +1,5 @@
 %%%-------------------------------------------------------------------
 %%% @author Steve Wight <northwight@gmail.com>
-%%% @copyright (C) 2014, Steve Wight
 %%% @doc
 %%%
 %%% @end
